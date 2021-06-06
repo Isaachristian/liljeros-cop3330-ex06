@@ -1,7 +1,11 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 6 Solution
+ *  Copyright 2021 Isaac Liljeros
+ */
+
 package org.example;
 
 import java.util.Calendar;
-import java.util.Date;
 import java.util.Scanner;
 
 /**
